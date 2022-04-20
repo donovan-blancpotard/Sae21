@@ -1,0 +1,16 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	404Industries.fr. root.404Industries.fr. (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+$ORIGIN 404Industries.fr.
+@	IN	NS	404Industries.fr.
+@	IN	A	10.203.11.1
+www	IN	A	10.203.11.1
+dns	IN	A	10.203.11.1
