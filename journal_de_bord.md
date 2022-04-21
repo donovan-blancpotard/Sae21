@@ -39,3 +39,8 @@ J'ai suivi le tuto sur moodle, et à la fin de l'heure j'ai testé le dns qui f�
 15/04
 
 Je reprend la configuration du serveur DNS de la veille avec plus de temps, pour corriger les erreurs et comprendre ce qui n'allait pas. J'ai réussi à corrigé une erreur qui était un oublie d'un "." dans le FQDN. Le DNS n'est toujours pas opérationnel...(voir fichiers conf-dns2.odt)
+
+21/04
+
+Configuration du serveur DNS terminé, le serveur est opérationnel. (voir compte rendu conf-dns3.odt)
+
