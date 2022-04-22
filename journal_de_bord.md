@@ -1,5 +1,5 @@
 
-Journal de bord
+                                                      **Journal de bord - Blanc-Potard Donovan** 
 
 28/03
 
@@ -7,7 +7,7 @@ Prise de connaissance du sujet, des livrables et de l'organisation ainsi que la 
 
 29/03
 
-Recherches sur le firewall et comment le configurer
+Recherches sur le firewall en général et comment le configurer
 * https://www.youtube.com/watch?v=nY-ReHZBavc
 * https://mhelp.pro/fr/mikrotik-protection-parametre-de-securite-de-base-de-lappareil/
 * https://help.mikrotik.com/docs/display/ROS/Building+Your+First+Firewall
@@ -32,7 +32,7 @@ Recherches sur ce qu'est une DMZ, comment cela fonctionne , a quoi cela sert il.
 
 14/04
 
-Face au difficultés pour le firewall je décide de changer de tâche pour le moment et de faire la configuration du serveur DNS en premier ( voir compte rendu conf-DNS.odt)
+Face au difficultés de compréhension pour le firewall je décide de changer de tâche pour le moment et de faire la configuration du serveur DNS en premier ( voir compte rendu conf-DNS.odt)
 
 J'ai suivi le tuto sur moodle, et à la fin de l'heure j'ai testé le dns qui fût un échec. Surement parce que je suis aller trop vite en voulant finir la configuration avant la fin de l'heure. Je n'ai pas encore trouvé d'ou provient le problème. Le dns n'arrive pas à résoudre les domaines. Et affiche plusieurs erreurs.
 
@@ -41,6 +41,11 @@ J'ai suivi le tuto sur moodle, et à la fin de l'heure j'ai testé le dns qui f�
 Je reprend la configuration du serveur DNS de la veille avec plus de temps, pour corriger les erreurs et comprendre ce qui n'allait pas. J'ai réussi à corrigé une erreur qui était un oublie d'un "." dans le FQDN. Le DNS n'est toujours pas opérationnel...(voir fichiers conf-dns2.odt)
 
 21/04
-
+J'ai recommencé la config du serveur DNS depuis le début.
 Configuration du serveur DNS terminé, le serveur est opérationnel. (voir compte rendu conf-dns3.odt)
+
+22/04
+
+Configuration du pare-feu Mikrotik (voir compte rendu conf-pare-feu.odt)
+
 
