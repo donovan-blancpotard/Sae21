@@ -18,7 +18,7 @@ Recherches sur le firewall en général et comment le configurer
 Recherches sur le firewall et plus précisement sur comment fonctionne les règles
 
 * https://fr.istartips.com/mikrotik-firewall-rules.html
-*http://www.ordinateur.cc/r%C3%A9seaux/Routeurs-sans-fil/84233.html
+* http://www.ordinateur.cc/r%C3%A9seaux/Routeurs-sans-fil/84233.html
 
 06/04
 
@@ -34,7 +34,7 @@ Recherches sur ce qu'est une DMZ, comment cela fonctionne , a quoi cela sert il.
 
 Face au difficultés de compréhension pour le firewall je décide de changer de tâche pour le moment et de faire la configuration du serveur DNS en premier ( voir compte rendu conf-DNS.odt)
 
-J'ai suivi le tuto sur moodle, et à la fin de l'heure j'ai testé le dns qui fût un échec. Surement parce que je suis aller trop vite en voulant finir la configuration avant la fin de l'heure. Je n'ai pas encore trouvé d'ou provient le problème. Le dns n'arrive pas à résoudre les domaines. Et affiche plusieurs erreurs.
+J'ai suivi le tuto sur moodle, et à la fin de l'heure j'ai testé le dns qui fût un échec. Surement parce que je suis aller trop vite en voulant finir la configuration avant la fin de l'heure. Je n'ai pas encore trouvé d'oû provient le problème. Le dns n'arrive pas à résoudre les domaines. Et affiche plusieurs erreurs.
 
 15/04
 
